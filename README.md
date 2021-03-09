@@ -33,6 +33,8 @@ _En la primera parte del proyecto se obtuvo mediante el análisis de 4 variables
 ---
 ### Desarrollo: 
 
+> NOTA: Esto es en modo de resúmen, dentro de Scripts se encuentra explicado cada detalle de la obtención de la información.
+
 #### _¿Cuáles son los pasos y objetivos de nuestro  estudio?_
 
 - Mediante un estudio se encontrará la ubicación  geográfica puntual a nivel municipal para la apertura del establecimiento, asimismo encontrando puntos de publicidad para la  difusión del concepto de la Comercialización  de tallas extras.
