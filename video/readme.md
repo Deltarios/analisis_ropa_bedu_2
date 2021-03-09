@@ -1,4 +1,4 @@
-# Video Explicación del proyecto
+# Video Explicación del Proyecto
 
 ### Integrantes: 
 
